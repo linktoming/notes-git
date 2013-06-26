@@ -1,2 +1,2 @@
-MMGitLeaningNotes
+Learning notes on Git 
 =================
