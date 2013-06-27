@@ -15,7 +15,7 @@ Learning Notes on Git
 9. [Understanding Git Conceptually](http://www.sbf5.com/~cduan/technical/git/)
 
 ### Articles on Submodule
-10. []() ✓
+10. [6.6 Git Tools - Submodules](http://git-scm.com/book/en/Git-Tools-Submodules) ✓
 11. []() ✓
 12. []() ✓
 13. []() ✓
