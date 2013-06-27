@@ -20,9 +20,30 @@
     ```bash
     $ git config --global core.editor "subl -w"
     # Replace "subl -w" with "mate -w" for TextMate, "gvim -f" for gVim, or "mvim -f" for MacVim.
-    ```
-4. (optional) Config command alias
+    ``` 
+5. (optional) Config command alias
 
     ```base
     $ git config --global alias.co checkout
+    ```
+6. Config .gitignore file, may use [github's collections of .gitignore files](https://github.com/github/gitignore)
+
+    ```bash
+    # Ignore bundler config
+    /.bundle
+    
+    # Ignore the default SQLite database.
+    /db/*.sqlite3
+    
+    # Ignore all logfiles and tempfiles.
+    /log/*.log
+    /tmp
+    
+    # Ignore other unneeded files.
+    doc/
+    *.swp
+    *~
+    .project
+    .DS_Store
+    .idea
     ```
