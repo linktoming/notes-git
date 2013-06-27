@@ -21,4 +21,8 @@
     $ git config --global core.editor "subl -w"
     # Replace "subl -w" with "mate -w" for TextMate, "gvim -f" for gVim, or "mvim -f" for MacVim.
     ```
-4. sdfsf
+4. (optional) Config command alias
+
+    ```base
+    $ git config --global alias.co checkout
+    ```
