@@ -14,6 +14,12 @@ git reset --hard origin/master
 git reset filename.txt
 ```
 
+## [Force git to overwrite local files on pull](http://stackoverflow.com/questions/1125968/force-git-to-overwrite-local-files-on-pull)
+```
+git fetch --all
+git reset --hard origin/master
+```
+
 ##Great entry level tutorials
 While I was learning and using git, I found the following tutorials are great and worth reading several times.
 
